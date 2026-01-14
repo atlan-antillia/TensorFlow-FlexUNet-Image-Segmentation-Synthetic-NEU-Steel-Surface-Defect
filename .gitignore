@@ -8,6 +8,7 @@ dataset/
 projects/*/*/models/
 projects/*/*/epoch_change_infer/
 projects/*/*/mini_test/
+projects/*/*/mini_test_output/
 
 # C extensions
 *.so

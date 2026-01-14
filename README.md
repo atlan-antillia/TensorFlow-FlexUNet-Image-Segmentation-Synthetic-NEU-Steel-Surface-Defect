@@ -275,8 +275,8 @@ As shown below, the inferred masks predicted by our segmentation model trained b
 <b>rgb_map={Patches:blue, Inclusion:green,  Scratches:red}</b><br>
 
 <br>
-<img src="./projects/TensorFlowFlexUNet/Synthetic-NEU-Seg/asset/prediction_bottom_1.png" width="1024" height="auto"><br>
-<img src="./projects/TensorFlowFlexUNet/Synthetic-NEU-Seg/asset/prediction_bottom_3.png" width="1020" height="auto"><br>
+<img src="./projects/TensorFlowFlexUNet/Synthetic-NEU-Seg/asset/prediction_bottom_1.png" width="1023" height="auto"><br>
+<img src="./projects/TensorFlowFlexUNet/Synthetic-NEU-Seg/asset/prediction_bottom_3.png" width="1025" height="auto"><br>
 
 <hr>
 <br>
