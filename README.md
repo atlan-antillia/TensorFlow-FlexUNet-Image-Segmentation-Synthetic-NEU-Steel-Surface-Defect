@@ -1,7 +1,7 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-Synthetic-NEU-Steel-Surface-Defect  (2026/01/14)</h2>
 Toshiyuki Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the first experiment of Image Segmentation for <b>Synthetic-NEU-Steel-Surface-Defectt</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
+This is the first experiment of Image Segmentation for <b>Synthetic-NEU-Steel-Surface-Defect</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
 (TensorFlow Flexible UNet Image Segmentation Model for Multiclass) , 
 and <b>Synthetic-NEU-Seg</b> dataset with colorized masks, which was derived by us from <br><br>
 <a href="https://opendatasets.vicomtech.org/di11-synthetic-neu-seg-images-via-stable-diffusion/33e9a1ec">
